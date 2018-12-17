@@ -1,3 +1,5 @@
+< Discontinued >
+
 tower-of-hanoi
 ==============
 
